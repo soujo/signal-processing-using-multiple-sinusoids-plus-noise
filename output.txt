@@ -1,0 +1,9 @@
+Statistical Features:
+Mean: -1.7114e-05
+Standard Deviation: 0.81546
+Skewness: 0.012408
+Kurtosis: 2.096
+
+Time-Domain Characteristics:
+Rise Time: 4.022
+Decay Time: 0.973
