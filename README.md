@@ -27,11 +27,11 @@ x(t) = A_1 \cdot \sin(2\pi f_1 t + \phi_1) + A_2 \cdot \sin(2\pi f_2 t + \phi_2)
 $$
 
 Where:
-- \( A\_1, A\_2, A\_3 \) are the amplitudes of the sine waves.
-- \( f\_1, f\_2, f\_3 \) are the frequencies of the sine waves.
-- \( \phi\_1, \phi\_2, \phi\_3 \) are the phase offsets of the sine waves.
-- \( t \) is time.
-- \( \text{noise}(t) \) represents the added noise.
+- $$ A_{1}, A_{2}, A_{3} \textnormal{ are the amplitudes of the sine waves}$$
+- $$ f_{1}, f_{2}, f_{3} \textnormal{ are the frequencies of the sine waves.} $$
+- $$ \phi_{1},\phi_{2},\phi_{3} \textnormal{ are the phase offsets of the sine waves.} $$
+- $$ t \textnormal{ is the time}$$
+- $$  noise \big(t\big) \textnormal{ represents the added noise.}$$
 
 
 ## Graphs and Visualizations
