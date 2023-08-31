@@ -33,6 +33,21 @@ Where:
 - $$ t \textnormal{ is the time}$$
 - $$  noise \big(t\big) \textnormal{ represents the added noise.}$$
 
+## Initial Values 
+
+$$
+\begin{split}
+    &A_{1}=1\\    
+    &A_{2}=0.5\\
+    &A_{3}=3\\
+    &f_{1}=50\\    
+    &f_{2}=120\\
+    &f_{3}=250\\
+    &\phi_{1}=0\\
+    &\phi_{2}=2\Pi/3\\
+    &\phi_{3}=13\Pi/6\\
+\end{split}
+$$
 
 ## Graphs and Visualizations
 
@@ -50,7 +65,7 @@ Where:
 ## Code Outputs
 
 #### Statistical Features:
-- Mean: -1.7114e-05
+- Mean: -0.000017114.
 - Standard Deviation: 0.81546
 - Skewness: 0.012408
 - Kurtosis: 2.096
